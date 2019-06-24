@@ -36,7 +36,7 @@ public class Window extends SceneMgr {
 			}
 		});
 		//播放音乐
-		//audioPlayWave.start();
+		audioPlayWave.start();
 	}
 	public static boolean printable = true;
 	int delay = 0;          //时间凝滞器持续时间变量
